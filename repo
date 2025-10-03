@@ -1,7 +1,0 @@
-docker-compose.yml
-app/config/products.yml
-web/Dockerfile
-web/server.js
-stripe-listener/listener.js
-secrets/.env         # (⚠️ do NOT commit real API keys)
-.github/workflows/ci.yml

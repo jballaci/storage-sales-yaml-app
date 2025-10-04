@@ -1,0 +1,26 @@
+products:
+  - id: basic-monthly
+    title: Basic Storage — 100 GB
+    price_cents: 499
+    currency: GBP
+    period: monthly
+    features:
+      - "100 GB storage"
+      - "Email support"
+  - id: pro-monthly
+    title: Pro Storage — 1 TB
+    price_cents: 1999
+    currency: GBP
+    period: monthly
+    features:
+      - "1 TB storage"
+      - "Priority support"
+      - "File versioning"
+  - id: enterprise-yearly
+    title: Enterprise — 50 TB
+    price_cents: 49999
+    currency: GBP
+    period: yearly
+    features:
+      - "50 TB storage"
+      - "SLA & dedicated account manager"
